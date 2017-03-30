@@ -8,7 +8,7 @@ import java.awt.*; //menu
  * Linked list that handles a wait-list for a single course
  *for students.
  *
- *@Jabari Rodrigues
+ *@J
  */
 
 public class Prog3 {
