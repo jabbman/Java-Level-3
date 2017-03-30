@@ -5,7 +5,7 @@
  * A client class that Simulates time of arrival and nnumber of customers waiting
  * based off of psuedo-random number .
  *
- *@Jabari Rodrigues
+ *@J
  */
 public class Prog5 { // client program
 
