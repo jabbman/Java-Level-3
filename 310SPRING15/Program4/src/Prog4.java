@@ -9,7 +9,7 @@ import java.util.*;
  * A client class that receives a post-fix expression in the 
  * string format and returns a integer via a stack. 
  *
- *@Jabari Rodrigues
+ *@J
  */
 
 public class Prog4
