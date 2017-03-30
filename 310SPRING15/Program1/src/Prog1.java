@@ -7,7 +7,7 @@ import java.awt.Menu;
  * Linked list that handles a wait-list for a single course
  *for students.
  *
- *@Jabari Rodrigues
+ *@J
  */
 //CLIENT PROGRAM
 public class Prog1 {
