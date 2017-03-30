@@ -8,7 +8,7 @@ import java.awt.Menu;
  * A client class that loads the menu for the Single
  * Linked list that handles employee menu.
  *
- *@Jabari Rodrigues
+ *@J
  */
 
 public class Prog2 {
