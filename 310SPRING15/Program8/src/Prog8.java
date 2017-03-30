@@ -4,7 +4,7 @@
  * 4/28/15
  * A client class that Simulates Dijkstras algorithm for 
  * the shortest path on a graph based on weighed values *
- *@Jabari Rodrigues
+ *@J
  */
 
 import java.util.*;
